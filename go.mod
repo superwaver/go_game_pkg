@@ -1,3 +1,3 @@
-module  github.com/superwaver/firstPkg
+module  github.com/superwaver/firstpkg
 
 go 1.19
