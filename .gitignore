@@ -1,0 +1,15 @@
+.idea/
+*.iml
+go.sum
+vendor/
+src/*.exe
+
+**/*.log*
+**/*.txt*
+.vendor
+src/objdata/
+config.toml
+all_frame.txt
+cache/
+__pycache__
+.vscode/
